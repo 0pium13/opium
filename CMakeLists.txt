@@ -1,0 +1,23 @@
+cmake_minimum_required(VERSION 3.29)
+project(untitled C)
+
+set(CMAKE_C_STANDARD 11)
+#[[
+add_executable(main main.c)
+add_executable(fop fop.c)
+add_executable(parth parth.c)
+add_executable(div_by_5_11 div_by_5_11.c)
+add_executable(gcd gcd.c)
+add_executable(armstrong armstrong.c)
+add_executable(oddeven oddeven.c)
+add_executable(prime prime.c)
+]]
+add_executable(series series.c)
+add_executable(series1 series1.c)
+add_executable(pointers poiners.c)
+add_executable(p1 p1.c)
+add_executable(armstrong1 armstrong1.c)
+add_executable(test test.c)
+add_executable(star star.c)
+add_executable(compliment compliment.c)
+add_executable(recursion recursion.c)
